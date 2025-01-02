@@ -8,7 +8,7 @@ Output as given below:-
 6 | 7 | 8\n
 X's turn\n
 Choose a position from 0-8: 1\n
-0 | X | 2\n
+0 | X | 2/n
 3 | 4 | 5\n
 6 | 7 | 8\n
 O's turn\n
